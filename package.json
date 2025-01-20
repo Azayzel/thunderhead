@@ -1,6 +1,6 @@
 {
-  "name": "obytesapp",
-  "version": "7.0.4",
+  "name": "thunderhead",
+  "version": "1.0.0",
   "private": true,
   "main": "expo-router/entry",
   "scripts": {
@@ -129,7 +129,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/obytes/react-native-template-obytes.git"
+    "url": "git+https://github.com/Azayzel/thunderhead.git"
   },
   "packageManager": "pnpm@9.12.3",
   "expo": {
